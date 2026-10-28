@@ -1,0 +1,967 @@
+{
+  "schemaVersion": 1,
+  "source": {
+    "name": "Valor tasado de la vivienda",
+    "publisher": "Ministerio de Vivienda y Agenda Urbana",
+    "datasetUrl": "https://datos.gob.es/es/catalogo/e05233601-valor-tasado-de-la-vivienda",
+    "rawCsvUrl": "https://cdn.mivau.gob.es/portal-web-mivau/Datos_MIVAU/CSV/VDP006_01.csv",
+    "geography": "Murcia, Region de",
+    "regime": "Libre",
+    "unit": "EUR/m²",
+    "frequency": "quarterly",
+    "observationCount": 126,
+    "latestPeriod": "2026-Q2"
+  },
+  "observations": [
+    {
+      "date": "1995-01-01",
+      "year": 1995,
+      "quarter": 1,
+      "pricePerSqm": 425.9
+    },
+    {
+      "date": "1995-04-01",
+      "year": 1995,
+      "quarter": 2,
+      "pricePerSqm": 421.0
+    },
+    {
+      "date": "1995-07-01",
+      "year": 1995,
+      "quarter": 3,
+      "pricePerSqm": 429.7
+    },
+    {
+      "date": "1995-10-01",
+      "year": 1995,
+      "quarter": 4,
+      "pricePerSqm": 428.4
+    },
+    {
+      "date": "1996-01-01",
+      "year": 1996,
+      "quarter": 1,
+      "pricePerSqm": 424.7
+    },
+    {
+      "date": "1996-04-01",
+      "year": 1996,
+      "quarter": 2,
+      "pricePerSqm": 428.4
+    },
+    {
+      "date": "1996-07-01",
+      "year": 1996,
+      "quarter": 3,
+      "pricePerSqm": 433.4
+    },
+    {
+      "date": "1996-10-01",
+      "year": 1996,
+      "quarter": 4,
+      "pricePerSqm": 433.4
+    },
+    {
+      "date": "1997-01-01",
+      "year": 1997,
+      "quarter": 1,
+      "pricePerSqm": 437.1
+    },
+    {
+      "date": "1997-04-01",
+      "year": 1997,
+      "quarter": 2,
+      "pricePerSqm": 442.1
+    },
+    {
+      "date": "1997-07-01",
+      "year": 1997,
+      "quarter": 3,
+      "pricePerSqm": 445.8
+    },
+    {
+      "date": "1997-10-01",
+      "year": 1997,
+      "quarter": 4,
+      "pricePerSqm": 450.8
+    },
+    {
+      "date": "1998-01-01",
+      "year": 1998,
+      "quarter": 1,
+      "pricePerSqm": 464.4
+    },
+    {
+      "date": "1998-04-01",
+      "year": 1998,
+      "quarter": 2,
+      "pricePerSqm": 470.6
+    },
+    {
+      "date": "1998-07-01",
+      "year": 1998,
+      "quarter": 3,
+      "pricePerSqm": 479.3
+    },
+    {
+      "date": "1998-10-01",
+      "year": 1998,
+      "quarter": 4,
+      "pricePerSqm": 489.3
+    },
+    {
+      "date": "1999-01-01",
+      "year": 1999,
+      "quarter": 1,
+      "pricePerSqm": 491.8
+    },
+    {
+      "date": "1999-04-01",
+      "year": 1999,
+      "quarter": 2,
+      "pricePerSqm": 514.1
+    },
+    {
+      "date": "1999-07-01",
+      "year": 1999,
+      "quarter": 3,
+      "pricePerSqm": 511.6
+    },
+    {
+      "date": "1999-10-01",
+      "year": 1999,
+      "quarter": 4,
+      "pricePerSqm": 521.6
+    },
+    {
+      "date": "2000-01-01",
+      "year": 2000,
+      "quarter": 1,
+      "pricePerSqm": 546.4
+    },
+    {
+      "date": "2000-04-01",
+      "year": 2000,
+      "quarter": 2,
+      "pricePerSqm": 565.0
+    },
+    {
+      "date": "2000-07-01",
+      "year": 2000,
+      "quarter": 3,
+      "pricePerSqm": 586.1
+    },
+    {
+      "date": "2000-10-01",
+      "year": 2000,
+      "quarter": 4,
+      "pricePerSqm": 596.1
+    },
+    {
+      "date": "2001-01-01",
+      "year": 2001,
+      "quarter": 1,
+      "pricePerSqm": 620.9
+    },
+    {
+      "date": "2001-04-01",
+      "year": 2001,
+      "quarter": 2,
+      "pricePerSqm": 658.2
+    },
+    {
+      "date": "2001-07-01",
+      "year": 2001,
+      "quarter": 3,
+      "pricePerSqm": 679.3
+    },
+    {
+      "date": "2001-10-01",
+      "year": 2001,
+      "quarter": 4,
+      "pricePerSqm": 699.1
+    },
+    {
+      "date": "2002-01-01",
+      "year": 2002,
+      "quarter": 1,
+      "pricePerSqm": 715.3
+    },
+    {
+      "date": "2002-04-01",
+      "year": 2002,
+      "quarter": 2,
+      "pricePerSqm": 752.5
+    },
+    {
+      "date": "2002-07-01",
+      "year": 2002,
+      "quarter": 3,
+      "pricePerSqm": 801.0
+    },
+    {
+      "date": "2002-10-01",
+      "year": 2002,
+      "quarter": 4,
+      "pricePerSqm": 837.0
+    },
+    {
+      "date": "2003-01-01",
+      "year": 2003,
+      "quarter": 1,
+      "pricePerSqm": 848.1
+    },
+    {
+      "date": "2003-04-01",
+      "year": 2003,
+      "quarter": 2,
+      "pricePerSqm": 878.0
+    },
+    {
+      "date": "2003-07-01",
+      "year": 2003,
+      "quarter": 3,
+      "pricePerSqm": 945.0
+    },
+    {
+      "date": "2003-10-01",
+      "year": 2003,
+      "quarter": 4,
+      "pricePerSqm": 987.2
+    },
+    {
+      "date": "2004-01-01",
+      "year": 2004,
+      "quarter": 1,
+      "pricePerSqm": 1061.7
+    },
+    {
+      "date": "2004-04-01",
+      "year": 2004,
+      "quarter": 2,
+      "pricePerSqm": 1115.1
+    },
+    {
+      "date": "2004-07-01",
+      "year": 2004,
+      "quarter": 3,
+      "pricePerSqm": 1192.1
+    },
+    {
+      "date": "2004-10-01",
+      "year": 2004,
+      "quarter": 4,
+      "pricePerSqm": 1246.8
+    },
+    {
+      "date": "2005-01-01",
+      "year": 2005,
+      "quarter": 1,
+      "pricePerSqm": 1241.8
+    },
+    {
+      "date": "2005-04-01",
+      "year": 2005,
+      "quarter": 2,
+      "pricePerSqm": 1326.2
+    },
+    {
+      "date": "2005-07-01",
+      "year": 2005,
+      "quarter": 3,
+      "pricePerSqm": 1344.9
+    },
+    {
+      "date": "2005-10-01",
+      "year": 2005,
+      "quarter": 4,
+      "pricePerSqm": 1392.0
+    },
+    {
+      "date": "2006-01-01",
+      "year": 2006,
+      "quarter": 1,
+      "pricePerSqm": 1402.0
+    },
+    {
+      "date": "2006-04-01",
+      "year": 2006,
+      "quarter": 2,
+      "pricePerSqm": 1441.7
+    },
+    {
+      "date": "2006-07-01",
+      "year": 2006,
+      "quarter": 3,
+      "pricePerSqm": 1456.6
+    },
+    {
+      "date": "2006-10-01",
+      "year": 2006,
+      "quarter": 4,
+      "pricePerSqm": 1496.4
+    },
+    {
+      "date": "2007-01-01",
+      "year": 2007,
+      "quarter": 1,
+      "pricePerSqm": 1533.6
+    },
+    {
+      "date": "2007-04-01",
+      "year": 2007,
+      "quarter": 2,
+      "pricePerSqm": 1578.3
+    },
+    {
+      "date": "2007-07-01",
+      "year": 2007,
+      "quarter": 3,
+      "pricePerSqm": 1611.9
+    },
+    {
+      "date": "2007-10-01",
+      "year": 2007,
+      "quarter": 4,
+      "pricePerSqm": 1618.1
+    },
+    {
+      "date": "2008-01-01",
+      "year": 2008,
+      "quarter": 1,
+      "pricePerSqm": 1614.3
+    },
+    {
+      "date": "2008-04-01",
+      "year": 2008,
+      "quarter": 2,
+      "pricePerSqm": 1588.7
+    },
+    {
+      "date": "2008-07-01",
+      "year": 2008,
+      "quarter": 3,
+      "pricePerSqm": 1603.2
+    },
+    {
+      "date": "2008-10-01",
+      "year": 2008,
+      "quarter": 4,
+      "pricePerSqm": 1523.7
+    },
+    {
+      "date": "2009-01-01",
+      "year": 2009,
+      "quarter": 1,
+      "pricePerSqm": 1445.5
+    },
+    {
+      "date": "2009-04-01",
+      "year": 2009,
+      "quarter": 2,
+      "pricePerSqm": 1405.0
+    },
+    {
+      "date": "2009-07-01",
+      "year": 2009,
+      "quarter": 3,
+      "pricePerSqm": 1382.2
+    },
+    {
+      "date": "2009-10-01",
+      "year": 2009,
+      "quarter": 4,
+      "pricePerSqm": 1351.1
+    },
+    {
+      "date": "2010-01-01",
+      "year": 2010,
+      "quarter": 1,
+      "pricePerSqm": 1372.2
+    },
+    {
+      "date": "2010-04-01",
+      "year": 2010,
+      "quarter": 2,
+      "pricePerSqm": 1356.0
+    },
+    {
+      "date": "2010-07-01",
+      "year": 2010,
+      "quarter": 3,
+      "pricePerSqm": 1361.0
+    },
+    {
+      "date": "2010-10-01",
+      "year": 2010,
+      "quarter": 4,
+      "pricePerSqm": 1327.5
+    },
+    {
+      "date": "2011-01-01",
+      "year": 2011,
+      "quarter": 1,
+      "pricePerSqm": 1267.9
+    },
+    {
+      "date": "2011-04-01",
+      "year": 2011,
+      "quarter": 2,
+      "pricePerSqm": 1242.3
+    },
+    {
+      "date": "2011-07-01",
+      "year": 2011,
+      "quarter": 3,
+      "pricePerSqm": 1248.5
+    },
+    {
+      "date": "2011-10-01",
+      "year": 2011,
+      "quarter": 4,
+      "pricePerSqm": 1231.0
+    },
+    {
+      "date": "2012-01-01",
+      "year": 2012,
+      "quarter": 1,
+      "pricePerSqm": 1185.5
+    },
+    {
+      "date": "2012-04-01",
+      "year": 2012,
+      "quarter": 2,
+      "pricePerSqm": 1172.5
+    },
+    {
+      "date": "2012-07-01",
+      "year": 2012,
+      "quarter": 3,
+      "pricePerSqm": 1129.1
+    },
+    {
+      "date": "2012-10-01",
+      "year": 2012,
+      "quarter": 4,
+      "pricePerSqm": 1059.1
+    },
+    {
+      "date": "2013-01-01",
+      "year": 2013,
+      "quarter": 1,
+      "pricePerSqm": 1057.0
+    },
+    {
+      "date": "2013-04-01",
+      "year": 2013,
+      "quarter": 2,
+      "pricePerSqm": 1062.3
+    },
+    {
+      "date": "2013-07-01",
+      "year": 2013,
+      "quarter": 3,
+      "pricePerSqm": 1048.5
+    },
+    {
+      "date": "2013-10-01",
+      "year": 2013,
+      "quarter": 4,
+      "pricePerSqm": 1005.6
+    },
+    {
+      "date": "2014-01-01",
+      "year": 2014,
+      "quarter": 1,
+      "pricePerSqm": 993.9
+    },
+    {
+      "date": "2014-04-01",
+      "year": 2014,
+      "quarter": 2,
+      "pricePerSqm": 1001.2
+    },
+    {
+      "date": "2014-07-01",
+      "year": 2014,
+      "quarter": 3,
+      "pricePerSqm": 993.7
+    },
+    {
+      "date": "2014-10-01",
+      "year": 2014,
+      "quarter": 4,
+      "pricePerSqm": 997.6
+    },
+    {
+      "date": "2015-01-01",
+      "year": 2015,
+      "quarter": 1,
+      "pricePerSqm": 980.5
+    },
+    {
+      "date": "2015-04-01",
+      "year": 2015,
+      "quarter": 2,
+      "pricePerSqm": 987.9
+    },
+    {
+      "date": "2015-07-01",
+      "year": 2015,
+      "quarter": 3,
+      "pricePerSqm": 988.6
+    },
+    {
+      "date": "2015-10-01",
+      "year": 2015,
+      "quarter": 4,
+      "pricePerSqm": 996.3
+    },
+    {
+      "date": "2016-01-01",
+      "year": 2016,
+      "quarter": 1,
+      "pricePerSqm": 988.8
+    },
+    {
+      "date": "2016-04-01",
+      "year": 2016,
+      "quarter": 2,
+      "pricePerSqm": 984.5
+    },
+    {
+      "date": "2016-07-01",
+      "year": 2016,
+      "quarter": 3,
+      "pricePerSqm": 984.2
+    },
+    {
+      "date": "2016-10-01",
+      "year": 2016,
+      "quarter": 4,
+      "pricePerSqm": 970.3
+    },
+    {
+      "date": "2017-01-01",
+      "year": 2017,
+      "quarter": 1,
+      "pricePerSqm": 973.7
+    },
+    {
+      "date": "2017-04-01",
+      "year": 2017,
+      "quarter": 2,
+      "pricePerSqm": 971.4
+    },
+    {
+      "date": "2017-07-01",
+      "year": 2017,
+      "quarter": 3,
+      "pricePerSqm": 967.9
+    },
+    {
+      "date": "2017-10-01",
+      "year": 2017,
+      "quarter": 4,
+      "pricePerSqm": 990.1
+    },
+    {
+      "date": "2018-01-01",
+      "year": 2018,
+      "quarter": 1,
+      "pricePerSqm": 990.5
+    },
+    {
+      "date": "2018-04-01",
+      "year": 2018,
+      "quarter": 2,
+      "pricePerSqm": 985.8
+    },
+    {
+      "date": "2018-07-01",
+      "year": 2018,
+      "quarter": 3,
+      "pricePerSqm": 963.1
+    },
+    {
+      "date": "2018-10-01",
+      "year": 2018,
+      "quarter": 4,
+      "pricePerSqm": 976.9
+    },
+    {
+      "date": "2019-01-01",
+      "year": 2019,
+      "quarter": 1,
+      "pricePerSqm": 1003.1
+    },
+    {
+      "date": "2019-04-01",
+      "year": 2019,
+      "quarter": 2,
+      "pricePerSqm": 997.4
+    },
+    {
+      "date": "2019-07-01",
+      "year": 2019,
+      "quarter": 3,
+      "pricePerSqm": 989.3
+    },
+    {
+      "date": "2019-10-01",
+      "year": 2019,
+      "quarter": 4,
+      "pricePerSqm": 974.0
+    },
+    {
+      "date": "2020-01-01",
+      "year": 2020,
+      "quarter": 1,
+      "pricePerSqm": 982.6
+    },
+    {
+      "date": "2020-04-01",
+      "year": 2020,
+      "quarter": 2,
+      "pricePerSqm": 948.3
+    },
+    {
+      "date": "2020-07-01",
+      "year": 2020,
+      "quarter": 3,
+      "pricePerSqm": 957.7
+    },
+    {
+      "date": "2020-10-01",
+      "year": 2020,
+      "quarter": 4,
+      "pricePerSqm": 977.6
+    },
+    {
+      "date": "2021-01-01",
+      "year": 2021,
+      "quarter": 1,
+      "pricePerSqm": 981.1
+    },
+    {
+      "date": "2021-04-01",
+      "year": 2021,
+      "quarter": 2,
+      "pricePerSqm": 1000.0
+    },
+    {
+      "date": "2021-07-01",
+      "year": 2021,
+      "quarter": 3,
+      "pricePerSqm": 985.8
+    },
+    {
+      "date": "2021-10-01",
+      "year": 2021,
+      "quarter": 4,
+      "pricePerSqm": 1027.1
+    },
+    {
+      "date": "2022-01-01",
+      "year": 2022,
+      "quarter": 1,
+      "pricePerSqm": 1044.9
+    },
+    {
+      "date": "2022-04-01",
+      "year": 2022,
+      "quarter": 2,
+      "pricePerSqm": 1016.4
+    },
+    {
+      "date": "2022-07-01",
+      "year": 2022,
+      "quarter": 3,
+      "pricePerSqm": 1030.5
+    },
+    {
+      "date": "2022-10-01",
+      "year": 2022,
+      "quarter": 4,
+      "pricePerSqm": 1025.6
+    },
+    {
+      "date": "2023-01-01",
+      "year": 2023,
+      "quarter": 1,
+      "pricePerSqm": 1048.6
+    },
+    {
+      "date": "2023-04-01",
+      "year": 2023,
+      "quarter": 2,
+      "pricePerSqm": 1030.9
+    },
+    {
+      "date": "2023-07-01",
+      "year": 2023,
+      "quarter": 3,
+      "pricePerSqm": 1054.7
+    },
+    {
+      "date": "2023-10-01",
+      "year": 2023,
+      "quarter": 4,
+      "pricePerSqm": 1095.4
+    },
+    {
+      "date": "2024-01-01",
+      "year": 2024,
+      "quarter": 1,
+      "pricePerSqm": 1101.7
+    },
+    {
+      "date": "2024-04-01",
+      "year": 2024,
+      "quarter": 2,
+      "pricePerSqm": 1098.5
+    },
+    {
+      "date": "2024-07-01",
+      "year": 2024,
+      "quarter": 3,
+      "pricePerSqm": 1095.3
+    },
+    {
+      "date": "2024-10-01",
+      "year": 2024,
+      "quarter": 4,
+      "pricePerSqm": 1132.0
+    },
+    {
+      "date": "2025-01-01",
+      "year": 2025,
+      "quarter": 1,
+      "pricePerSqm": 1173.3
+    },
+    {
+      "date": "2025-04-01",
+      "year": 2025,
+      "quarter": 2,
+      "pricePerSqm": 1185.0
+    },
+    {
+      "date": "2025-07-01",
+      "year": 2025,
+      "quarter": 3,
+      "pricePerSqm": 1216.3
+    },
+    {
+      "date": "2025-10-01",
+      "year": 2025,
+      "quarter": 4,
+      "pricePerSqm": 1264.0
+    },
+    {
+      "date": "2026-01-01",
+      "year": 2026,
+      "quarter": 1,
+      "pricePerSqm": 1330.2
+    },
+    {
+      "date": "2026-04-01",
+      "year": 2026,
+      "quarter": 2,
+      "pricePerSqm": 1350.1
+    }
+  ],
+  "annualAverages": [
+    {
+      "year": 1995,
+      "averagePricePerSqm": 426.25,
+      "observedQuarters": 4,
+      "isPartial": false
+    },
+    {
+      "year": 1996,
+      "averagePricePerSqm": 429.98,
+      "observedQuarters": 4,
+      "isPartial": false
+    },
+    {
+      "year": 1997,
+      "averagePricePerSqm": 443.95,
+      "observedQuarters": 4,
+      "isPartial": false
+    },
+    {
+      "year": 1998,
+      "averagePricePerSqm": 475.9,
+      "observedQuarters": 4,
+      "isPartial": false
+    },
+    {
+      "year": 1999,
+      "averagePricePerSqm": 509.78,
+      "observedQuarters": 4,
+      "isPartial": false
+    },
+    {
+      "year": 2000,
+      "averagePricePerSqm": 573.4,
+      "observedQuarters": 4,
+      "isPartial": false
+    },
+    {
+      "year": 2001,
+      "averagePricePerSqm": 664.38,
+      "observedQuarters": 4,
+      "isPartial": false
+    },
+    {
+      "year": 2002,
+      "averagePricePerSqm": 776.45,
+      "observedQuarters": 4,
+      "isPartial": false
+    },
+    {
+      "year": 2003,
+      "averagePricePerSqm": 914.58,
+      "observedQuarters": 4,
+      "isPartial": false
+    },
+    {
+      "year": 2004,
+      "averagePricePerSqm": 1153.93,
+      "observedQuarters": 4,
+      "isPartial": false
+    },
+    {
+      "year": 2005,
+      "averagePricePerSqm": 1326.23,
+      "observedQuarters": 4,
+      "isPartial": false
+    },
+    {
+      "year": 2006,
+      "averagePricePerSqm": 1449.18,
+      "observedQuarters": 4,
+      "isPartial": false
+    },
+    {
+      "year": 2007,
+      "averagePricePerSqm": 1585.48,
+      "observedQuarters": 4,
+      "isPartial": false
+    },
+    {
+      "year": 2008,
+      "averagePricePerSqm": 1582.48,
+      "observedQuarters": 4,
+      "isPartial": false
+    },
+    {
+      "year": 2009,
+      "averagePricePerSqm": 1395.95,
+      "observedQuarters": 4,
+      "isPartial": false
+    },
+    {
+      "year": 2010,
+      "averagePricePerSqm": 1354.18,
+      "observedQuarters": 4,
+      "isPartial": false
+    },
+    {
+      "year": 2011,
+      "averagePricePerSqm": 1247.43,
+      "observedQuarters": 4,
+      "isPartial": false
+    },
+    {
+      "year": 2012,
+      "averagePricePerSqm": 1136.55,
+      "observedQuarters": 4,
+      "isPartial": false
+    },
+    {
+      "year": 2013,
+      "averagePricePerSqm": 1043.35,
+      "observedQuarters": 4,
+      "isPartial": false
+    },
+    {
+      "year": 2014,
+      "averagePricePerSqm": 996.6,
+      "observedQuarters": 4,
+      "isPartial": false
+    },
+    {
+      "year": 2015,
+      "averagePricePerSqm": 988.33,
+      "observedQuarters": 4,
+      "isPartial": false
+    },
+    {
+      "year": 2016,
+      "averagePricePerSqm": 981.95,
+      "observedQuarters": 4,
+      "isPartial": false
+    },
+    {
+      "year": 2017,
+      "averagePricePerSqm": 975.78,
+      "observedQuarters": 4,
+      "isPartial": false
+    },
+    {
+      "year": 2018,
+      "averagePricePerSqm": 979.08,
+      "observedQuarters": 4,
+      "isPartial": false
+    },
+    {
+      "year": 2019,
+      "averagePricePerSqm": 990.95,
+      "observedQuarters": 4,
+      "isPartial": false
+    },
+    {
+      "year": 2020,
+      "averagePricePerSqm": 966.55,
+      "observedQuarters": 4,
+      "isPartial": false
+    },
+    {
+      "year": 2021,
+      "averagePricePerSqm": 998.5,
+      "observedQuarters": 4,
+      "isPartial": false
+    },
+    {
+      "year": 2022,
+      "averagePricePerSqm": 1029.35,
+      "observedQuarters": 4,
+      "isPartial": false
+    },
+    {
+      "year": 2023,
+      "averagePricePerSqm": 1057.4,
+      "observedQuarters": 4,
+      "isPartial": false
+    },
+    {
+      "year": 2024,
+      "averagePricePerSqm": 1106.88,
+      "observedQuarters": 4,
+      "isPartial": false
+    },
+    {
+      "year": 2025,
+      "averagePricePerSqm": 1209.65,
+      "observedQuarters": 4,
+      "isPartial": false
+    },
+    {
+      "year": 2026,
+      "averagePricePerSqm": 1340.15,
+      "observedQuarters": 2,
+      "isPartial": true
+    }
+  ]
+}

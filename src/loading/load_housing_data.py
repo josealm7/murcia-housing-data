@@ -11,6 +11,7 @@ INPUT_PATH = Path("data/processed/housing_prices_clean.csv")
 
 DB_CONFIG = {
     "host": os.getenv("DB_HOST"),
+    "port": int(os.getenv("DB_PORT", "5432")),
     "dbname": os.getenv("DB_NAME"),
     "user": os.getenv("DB_USER"),
     "password": os.getenv("DB_PASSWORD"),
@@ -25,8 +26,14 @@ def main():
 
     with psycopg.connect(**DB_CONFIG) as connection:
         with connection.cursor() as cursor:
-            cursor.execute("TRUNCATE TABLE housing_prices;")
-
+            # Required for safe reruns against both Compose-created and existing tables.
+            # This preserves rows; PostgreSQL rejects the index if periods are already duplicated.
+            cursor.execute(
+                """
+                CREATE UNIQUE INDEX IF NOT EXISTS uq_housing_prices_period
+                ON housing_prices (ano, trimestre)
+                """
+            )
             for row in df.itertuples(index=False):
                 cursor.execute(
                     """
@@ -39,6 +46,11 @@ def main():
                         comunidad_autonoma
                     )
                     VALUES (%s, %s, %s, %s, %s, %s)
+                    ON CONFLICT (ano, trimestre) DO UPDATE SET
+                        fecha = EXCLUDED.fecha,
+                        precio_m2 = EXCLUDED.precio_m2,
+                        regimen = EXCLUDED.regimen,
+                        comunidad_autonoma = EXCLUDED.comunidad_autonoma
                     """,
                     (
                         row.ano,
